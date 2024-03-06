@@ -1,0 +1,29 @@
+IAM Features
+* Authentication: Verifying the identity of users or entities accessing resources.
+* Authorization: Granting or denying permissions for specific actions or resources based on authenticated identity.
+* Access Management: Managing and controlling access to resources, including defining who has access and what actions they can perform.
+* Role-based Access Control (RBAC): Assigning permissions to users based on their roles within an organization.
+* Multi-Factor Authentication (MFA): Adding an extra layer of security by requiring multiple forms of authentication.
+* Identity Federation: Establishing trust relationships between different identity systems to enable single sign-on and seamless access to resources across systems.
+* Fine-Grained Access Control: Granular control over permissions, allowing administrators to specify access at a detailed level.
+* Identity Lifecycle Management: Managing the lifecycle of digital identities from creation to deletion, including provisioning and de-provisioning.
+* Policy Management: Defining and enforcing policies that govern access to resources, including conditions and rules.
+* Auditing and Logging: Monitoring and recording actions taken by users, providing visibility and accountability.
+* Single Sign-On (SSO): Allowing users to log in once and access multiple resources or applications without needing to reauthenticate.
+* Least Privilege Principle: Granting users the minimum level of access required to perform their tasks, reducing the risk of unauthorized access.
+Access Control Lists (ACLs): Lists that specify which users or entities are granted or denied access to specific resources.
+* Identity Governance and Administration (IGA): Ensuring compliance with policies and regulations by managing identities, roles, and access rights.
+* Security Token Service (STS): Issuing security tokens that authenticate users and grant them access to resources for a limited time period.
+* PCI DSS Compliance: Ensuring compliance with the Payment Card Industry Data Security Standard (PCI DSS), which includes requirements for securing payment card data and protecting sensitive information during transactions.
+
+* Users: When discussing individual entities or entities interacting with a system, platform, or application.
+Example: "We need to create user accounts for the new employees joining the company."
+
+* Groups: When referring to collections of users with similar roles or permissions.
+Example: "We have different groups set up in our system, such as 'Developers,' 'Administrators,' and 'Managers.'"
+
+* Roles: When discussing the permissions or access rights associated with specific job functions or responsibilities.
+Example: "The 'Manager' role allows users to approve purchase requests and access financial reports."
+
+* Permissions: When specifying the actions or operations allowed or denied to users or groups on resources. - JSON Document
+Example: "Users with the 'Read-Only' permission can view files but cannot edit or delete them."
